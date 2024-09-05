@@ -40,7 +40,7 @@
 - <p>Link to <a href="https://eeyeem/u/u33951084/photo">https://eyeem/u/u33951084/photo</a></p>
 - Shutterstock: T.B.A
 
- ## 📖 Fun fact of the month:
+ ## 📖 Fun fact for the month:
 - My favorite color: #0B7D3F
 - I wrote my first Python code when I was in kindergarten: `turtle.left(90)`.
 - The first website, which was created in 1991, was designed by Tim Berners-Lee, who is also a graphic designer. 😉
