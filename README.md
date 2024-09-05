@@ -5,7 +5,6 @@
  ![stripe_sm](https://github.com/user-attachments/assets/7024f540-de18-486e-bb6d-7442c03f0ba2)
 •••••••••••• User name: ekilroy2027 • GitHub page: https://github.com/ekilroy2027
 
-<!--Elizabeth Kilroy-->
 ## ⁉️ Who am I ⁉️:
    <p>I originated from Boston, MA, but I now reside in Atlanta. Currently, I am studying Graphics Information Technology at ASU. I have worked in the printing industry for several years and am now eager to learn web and social media design to enhance my skills as a graphic designer, and to bring these skills to you.</p>>
 
