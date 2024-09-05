@@ -1,9 +1,8 @@
 ![HEADER_8](https://github.com/user-attachments/assets/b1f40e96-15a0-4653-a711-4ff70a7c7ccf)
    <h1>I'm Liz, a passionate designer dedicated to creating vibrant print and social media graphics. Let's bring your vision to life! </h1> 
+![stripe_sm](https://github.com/user-attachments/assets/c1ced0f3-52b4-4d75-b834-7ef1f352da88)User name: ekilroy2027![stripe_sm](https://github.com/user-attachments/assets/e44e41c4-f5b1-45ed-8976-c1e3cd9b0aa6)
 
-•••••••••![stripe_sm](https://github.com/user-attachments/assets/7024f540-de18-486e-bb6d-7442c03f0ba2) ![stripe_sm](https://github.com/user-attachments/assets/7024f540-de18-486e-bb6d-7442c03f0ba2)
- ![stripe_sm](https://github.com/user-attachments/assets/7024f540-de18-486e-bb6d-7442c03f0ba2)
-•••••••••••• User name: ekilroy2027 • GitHub page: https://github.com/ekilroy2027
+GitHub page: https://github.com/ekilroy2027!
 
 ## ⁉️ Who am I ⁉️:
    <p>I originated from Boston, MA, but I now reside in Atlanta. Currently, I am studying Graphics Information Technology at ASU. I have worked in the printing industry for several years and am now eager to learn web and social media design to enhance my skills as a graphic designer, and to bring these skills to you.</p>>
