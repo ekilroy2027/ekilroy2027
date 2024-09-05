@@ -19,6 +19,7 @@ In the spring of 2025, I will start an internship in social media design. I will
 ![icons8-github-48](https://github.com/user-attachments/assets/52331c96-76fa-4389-93dc-e1159faf7a7a)
 ![icons8-visual-studio-code-48](https://github.com/user-attachments/assets/67b4c550-c988-4e92-9186-53e7fa9621e0)
 ![icons8-git-50](https://github.com/user-attachments/assets/4bdea025-2752-42f6-a4d4-39f8513ff532)
+![icons8-html5-48](https://github.com/user-attachments/assets/4aebbc56-e026-4508-afd7-db3fd7208a5c)
 ![icons8-python-48](https://github.com/user-attachments/assets/024d0669-80b4-4f1d-8ef5-284bafe3ea60)
 ![icons8-adobe-48 (1)](https://github.com/user-attachments/assets/2ec78fe3-4671-4939-a456-95c4375a9783)
 ![icons8-adobe-48](https://github.com/user-attachments/assets/abc1ba17-4cba-4bec-a3f0-aca42b928509)
