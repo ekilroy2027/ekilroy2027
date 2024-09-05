@@ -13,7 +13,7 @@
  - 🌱 I am currently learning how to design for the internet and social media devices.
 
 ## 📣 Coming Attractions:
-<p>In the spring of 2025, I will start an internship in social media design. I will also be launching a Behance page sometime in the same year.</p> 
+<p>In the spring of 2025, I will start an internship in social media design. I will also be launching a Behance page in the fall of that same year.</p> 
 
 ## 🛠️ Languages, Tools and Apps:
  ![icons8-github-48](https://github.com/user-attachments/assets/52331c96-76fa-4389-93dc-e1159faf7a7a)
@@ -31,8 +31,6 @@
  ![icons8-teams-48](https://github.com/user-attachments/assets/276a4f9b-fce1-4188-b21f-c6f171365f9d)
  ![icons8-zoom-48](https://github.com/user-attachments/assets/39fff955-bf83-49d4-9f7f-f928998ea7d1)
  ![icons8-outlook-48](https://github.com/user-attachments/assets/e8915e3b-4c17-427b-8538-56d5a2802ce2)
-
-
 
 ## 🤙 Connect with me:
 - Email: ekilroy@asu.edu
