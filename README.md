@@ -15,5 +15,7 @@ In the spring of 2025, I will start an internship in social media design. I will
 - LinkedIn: linkedin.com/in/elizabeth-kilroy-a20b6197
 - EyeEm: eyeem/u/u33951084/photo
 
-- ## ⚡ Fun fact of the month:
+ ## 📖 Fun fact of the month:
+- My favorite color: #0B7D3F
+- I wrote my first Python code when I was in kindergarten: `turtle.left(90)`.
 - The first website, which was created in 1991, was designed by Tim Berners-Lee, who is also a graphic designer. 😉
