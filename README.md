@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub page! 👋
 
 <!--
 **ekilroy2027/ekilroy2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
