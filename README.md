@@ -36,8 +36,8 @@
 
 ## 🤙 Connect with me:
 - Email: ekilroy@asu.edu
-- LinkedIn: linkedin.com/in/elizabeth-kilroy-a20b6197
-- EyeEm: eyeem/u/u33951084/photo
+- <p>Link to <a href="linkedin.com/in/elizabeth-kilroy-a20b6197">linkedin.com/in/elizabeth-kilroy-a20b6197</a></p>
+- <p>Link to <a href="https://eeyeem/u/u33951084/photo">https://eyeem/u/u33951084/photo</a></p>
 - Shutterstock: T.B.A
 
  ## 📖 Fun fact of the month:
