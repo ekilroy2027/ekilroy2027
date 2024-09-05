@@ -7,7 +7,7 @@ User name: ekilroy2027 ![stripe_sm](https://github.com/user-attachments/assets/a
 ## 👋 I’m currently __________:
 - 🔭 I'm currently working on my Shutterstock Contributor page, where I created simple and generic Christmas background designs. I will be posting livelier content in November this year, so stay tuned. My goal is to release a new set of graphics every quarter.      
 - 🌱 I am currently learning how to design for the internet and social media devices.
-- 💬 Who am I?....I'm Elizabeth, but you can call me Liz. I'm originally from Boston, MA, but now I live in Atlanta. Right now I'm majoring in Graphics Information Technology at ASU. I've been working in the printing field for several years, and now I'm determined to learn web and social media design to expand my skills as a graphic designer.
+- ⁉️Who am I⁉️....I'm Elizabeth, but you can call me Liz. I'm originally from Boston, MA, but now I live in Atlanta. Right now I'm majoring in Graphics Information Technology at ASU. I've been working in the printing field for several years, and now I'm determined to learn web and social media design to expand my skills as a graphic designer.
 ## 📣 Coming Attractions:
 In the spring of 2025, I will start an internship in social media design. I will also be launching a Behance page sometime in the same year. 
 ## 🤙 Connect with me:
