@@ -9,7 +9,6 @@
 ## ⁉️ Who am I ⁉️:
    <p>I originated from Boston, MA, but I now reside in Atlanta. Currently, I am studying Graphics Information Technology at ASU. I have worked in the printing industry for several years and am now eager to learn web and social media design to enhance my skills as a graphic designer, and to bring these skills to you.</p>>
 
-
 ## 👋 I’m currently __________:
  - 🔭 I'm currently working on my Shutterstock Contributor page, where I created simple and generic Christmas background designs. I will be posting livelier content in November this year, so stay tuned. My goal is to release a new set of graphics every quarter.      
  - 🌱 I am currently learning how to design for the internet and social media devices.
