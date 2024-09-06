@@ -36,7 +36,7 @@ GitHub page: https://github.com/ekilroy2027! User name: ekilroy2027
 - Email: ekilroy@asu.edu
 - <p>Link to <a href="linkedin.com/in/elizabeth-kilroy-a20b6197">linkedin.com/in/elizabeth-kilroy-a20b6197</a></p>
 - <p>Link to <a href="https://eeyeem/u/u33951084/photo">https://eyeem/u/u33951084/photo</a></p>
-- Shutterstock: T.B.A
+- Shutterstock: T.B.A.
 
  ## 📖 Fun fact for the month:
 - My favorite color: #0B7D3F
