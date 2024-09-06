@@ -1,20 +1,14 @@
-![HEADER_8](https://github.com/user-attachments/assets/b1f40e96-15a0-4653-a711-4ff70a7c7ccf)
-   <h1>I'm Liz, a passionate designer dedicated to creating vibrant print and social media graphics. Let's bring your vision to life! </h1> 
+![alt text](https://github.com/user-attachments/assets/b1f40e96-15a0-4653-a711-4ff70a7c7ccf)
 
-![stripe_sm](https://github.com/user-attachments/assets/171f8336-ee69-481a-9406-41d1fe196fee)
-User name: ekilroy2027!
-![stripe_sm](https://github.com/user-attachments/assets/e6cfda52-a670-4192-99cb-1506d9eaec03)
-
-![stripe_sm](https://github.com/user-attachments/assets/413b2fe2-1185-49d7-bd1b-efab181a0f50)
-GitHub page: https://github.com/ekilroy2027!
-![stripe_sm](https://github.com/user-attachments/assets/bf6cbf55-c05d-44f4-9141-bc99103a09ee)
+<h1 align="center">Let's bring your vision to life!</h1> 
 
 ## ⁉️ Who am I ⁉️:
-   <p>I originated from Boston, MA, but I now reside in Atlanta. Currently, I am studying Graphics Information Technology at ASU. I have worked in the printing industry for several years and am now eager to learn web and social media design to enhance my skills as a graphic designer, and to bring these skills to you.</p>>
+   <p>I'm Liz, a passionate designer dedicated to creating vibrant print and social media graphicsI originated from Boston, MA, but I now reside in Atlanta. Currently, I am studying Graphics Information Technology at ASU. I have worked in the printing industry for several years and am now eager to learn web and social media design to enhance my skills as a graphic designer, and to bring these skills to you.</p>
 
 ## 👋 I’m currently __________:
  - 🔭 I'm currently working on my Shutterstock Contributor page, where I created simple and generic Christmas background designs. I will be posting livelier content in November this year, so stay tuned. My goal is to release a new set of graphics every quarter.      
  - 🌱 I am currently learning how to design for the internet and social media devices.
+ - 👀 I'm looking for an internship that aligns with my major at ASU and complements my educational background.
 
 ## 📣 Coming Attractions:
 <p>In the spring of 2025, I will start an internship in social media design. I will also be launching a Behance page in the fall of that same year.</p> 
@@ -37,6 +31,7 @@ GitHub page: https://github.com/ekilroy2027!
  ![icons8-outlook-48](https://github.com/user-attachments/assets/e8915e3b-4c17-427b-8538-56d5a2802ce2)
 
 ## 🤙 Connect with me:
+GitHub page: https://github.com/ekilroy2027! User name: ekilroy2027!
 - Email: ekilroy@asu.edu
 - <p>Link to <a href="linkedin.com/in/elizabeth-kilroy-a20b6197">linkedin.com/in/elizabeth-kilroy-a20b6197</a></p>
 - <p>Link to <a href="https://eeyeem/u/u33951084/photo">https://eyeem/u/u33951084/photo</a></p>
@@ -46,3 +41,8 @@ GitHub page: https://github.com/ekilroy2027!
 - My favorite color: #0B7D3F
 - I wrote my first Python code when I was in kindergarten: `turtle.left(90)`.
 - The first website, which was created in 1991, was designed by Tim Berners-Lee, who is also a graphic designer. 😉
+
+ ## Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekilroy2027&show_icons=true&locale=en" alt="ekilroy2027" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekilroy2027&" alt="ekilroy2027" /></p>
+
