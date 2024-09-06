@@ -32,7 +32,7 @@
  ![icons8-outlook-48](https://github.com/user-attachments/assets/e8915e3b-4c17-427b-8538-56d5a2802ce2)
 
 ## 🤙 Connect with me!:
-GitHub page: https://github.com/ekilroy2027! User name: ekilroy2027
+- GitHub page: https://github.com/ekilroy2027! User name: ekilroy2027
 - Email: ekilroy@asu.edu
 - <p>Link to <a href="linkedin.com/in/elizabeth-kilroy-a20b6197">linkedin.com/in/elizabeth-kilroy-a20b6197</a></p>
 - <p>Link to <a href="https://eeyeem/u/u33951084/photo">https://eyeem/u/u33951084/photo</a></p>
