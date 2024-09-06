@@ -14,7 +14,7 @@
 ## 📣 Coming Attractions:
 <p>In the spring of 2025, I will start an internship in social media design. I will also be launching a Behance page in the fall of that same year.</p> 
 
-## 🛠️ Languages, Tools and Apps:
+## 🛠️ Technical Skills:
  ![icons8-github-48](https://github.com/user-attachments/assets/52331c96-76fa-4389-93dc-e1159faf7a7a)
  ![icons8-visual-studio-code-48](https://github.com/user-attachments/assets/67b4c550-c988-4e92-9186-53e7fa9621e0)
  ![icons8-git-50](https://github.com/user-attachments/assets/4bdea025-2752-42f6-a4d4-39f8513ff532)
