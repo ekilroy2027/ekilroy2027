@@ -3,16 +3,16 @@
 <h1 align="center">Let's bring your vision to life!</h1> 
 
 ## ⁉️ Who am I ⁉️:
-   <p>I'm Liz, a passionate designer dedicated to creating vibrant print and social media graphicsI originated from Boston, MA, but I now reside in Atlanta. Currently, I am studying Graphics Information Technology at ASU. I have worked in the printing industry for several years and am now eager to learn web and social media design to enhance my skills as a graphic designer, and to bring these skills to you.</p>
+   <p>My name is Liz, and I am a passionate designer focused on creating vibrant print and social media graphics. Originally from Boston, MA, I now live in Atlanta. Currently, I am studying Graphics Information Technology at ASU online. After graduating from ASU, I plan to either freelance or look for a job in graphic design, particularly in the areas of designing packaging or print displays. My goal is not just to create designs but also to implement them on the company's website. Having worked in the printing industry for several years, I am now eager to learn web and social media design to enhance my skills as a graphic designer and to bring these skills to you.  Outside of that, I am working on flipping my townhome and updating its decor to give it a modern look from the 1990s.</p>
 
 ## 👋: I’m currently __________:
  - 🔭 I'm currently working on my Shutterstock Contributor page, where I created simple and generic Christmas background designs. I will be posting livelier content in November this year, so stay tuned. My goal is to release a new set of graphics every quarter.      
  - 🌱 I am currently learning how to design for the internet and social media devices.
  - 👀 I'm looking for an internship that aligns with my major at ASU and complements my educational background.
- - 🏡 A new hobby I'm pursuing is renovating my townhome and giving its decor a modern update from the 1990s.
+
 
 ## 📣 Coming Attractions:
-<p>In the spring of 2025, I will start an internship in social media design. I will also be launching a Behance page in the fall of that same year. After graduating from ASU, my plan is to either freelance or search for a job in graphic design, particularly in designing packaging or print displays. My goal is not only to create designs but also to implement them on the company's website. </p> 
+<p>In the spring of 2025, I will start an internship in social media design. I will also be launching a Behance page in the fall of that same year.</p> 
 
 ## 🛠️ Languages, Tools and Apps:
  ![icons8-github-48](https://github.com/user-attachments/assets/52331c96-76fa-4389-93dc-e1159faf7a7a)
